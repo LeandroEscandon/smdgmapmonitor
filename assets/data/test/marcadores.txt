@@ -1,0 +1,1 @@
+[{"id":"900","latitud":2.455,"longitud":-76.565,"tipo":1},{"id":"901","latitud":2.456,"longitud":-76.565,"tipo":1},{"id":"837","latitud":2.46,"longitud":-76.59,"tipo":1}]
